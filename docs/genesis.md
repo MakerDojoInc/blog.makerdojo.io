@@ -1,6 +1,8 @@
-layout: page
+---
+layout: default
 title: "MakerDojo's Genesis Block"
 permalink: /makerdojo-genesis-block
+---
 
 Blockchains support a lot of diverse use cases like NFTs, DeFi, DAOs etc., through DAPPs and smart contracts. Most smart contracts store an immutable state on the blockchain in a blockchain-specific data format.
 
